@@ -1,0 +1,164 @@
+.container{
+	max-width: 1920px;
+	background-color: rgba(0, 0, 0, 0.79);
+}
+p{
+	font-family: "Roboto";
+}
+a{
+	font-family: "Roboto";
+	text-decoration: none;
+}
+.nav a{
+	margin-left: 55px;
+	font-size: 18px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.header{
+	height: 1080px;
+	background: url(images/a8142b4ab0617b92f2ea78cb0b874752.jpg);
+}
+.logo{
+	float: left;
+}
+.naf{
+	float: left;
+	margin-top: 60px;
+}
+.char{
+	height: 1200px;
+	background-color: rgba(0, 0, 0, 0.52);
+}
+.pic{
+	width:  1400px;
+	height: 1200px;
+	margin-left: 250px;
+	background-color: #fff;
+}
+.visit{
+	font-size: 30px;
+	width: 600px;
+	text-align: center;
+	padding-left: 400px;
+	padding-top: 50px;
+	position: absolute;
+}
+.oldschool{
+	height: 1080px;
+	text-align: center;
+}
+.old{
+	font-family: "Red Rose";
+	color: #ffff;
+	font-size: 50px;
+	padding-top: 50px;
+}
+.pics{
+	margin-top: 110px;
+	width: 1600px;
+	margin-left: 150px;
+}	
+.white{
+	float: left;
+	margin-top: 40px;
+}
+.key{
+	float: left;
+}
+.black{
+	float: left;
+	margin-top: 100px;
+}
+.footer{
+	height: 300px;
+	background-color: #E5E5E5;
+	text-align: center;
+}
+.imag{
+	padding-top: 110px;
+}
+.grotti{
+	padding-top: 150px;
+	font-size: 20px;
+}
+.header1{
+	background: background-color: rgba(0, 0, 0, 0.52);
+}
+.header-top1{
+	height: 170px;
+	background-color: rgba(0, 0, 0, 1);
+}
+.sign{
+	text-align: center;
+	display: flex;
+	margin-top: 220px;
+	margin-left: 130px;
+}
+.consultation{
+	background-color: rgba(144, 36, 36, 1);
+	height: 700px;
+	width: 900px;
+	float: left;
+	margin-left: 20px;
+	border-radius: 30px;
+
+}
+.cc{
+	float: left;
+}
+.signup{
+	color: #ffff;
+	font-size: 50px;
+	font-family: "Red Rose";
+	margin-top: 80px;
+}
+.field{
+	height: 60px;
+	width: 600px;
+	margin-top: 40px;
+	border-radius: 10px;
+}
+::-webkit-input-placeholder{
+	font-family: "Roboto";
+	padding-left: 10px;
+	font-size: 17px;
+}
+.sub{
+	color: #ffff;
+	font-size: 30px;
+}
+.submit{
+	background-color: rgba(41, 18, 18, 1);
+	height: 70px;
+	position: absolute;
+	border-radius: 20px;
+	margin-top: 50px;
+	margin-left: 250px;
+	width: 400px;
+}
+.sss{
+	margin-top: 10px;
+}
+.map{
+	margin-top: 50px;
+	width: 1500px;
+	display: flex;
+	justify-content: space-between;
+	margin-left: 130px;
+}
+.oryoucan{
+	text-align: center;
+	width: 400px;
+}
+.can{
+	font-size: 40px;
+	color: #ffff;
+	margin-top: 80px;
+}
+.footer1{
+	height: 300px;
+	background-color: #E5E5E5;
+	text-align: center;
+	margin-top: 200px;
+}
