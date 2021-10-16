@@ -11,20 +11,37 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Red+Rose&display=swap" rel="stylesheet">
+<!-- 	<script language = "JavaScript">
+	var bigsize = "360"; 
+	var bigsize2 = "630"; 
+	var bigsize3 = "450"; 
+	var smallsize = "260"; 
+	var smallsize2 = "530"; 
+	var smallsize3 = "350"; 
+	function changeSizeImage(im) {
+  	if(im.height == bigsize) im.height = smallsize;
+  	else im.height = bigsize;
+  	if(im.height == bigsize2) im.height = smallsize2;
+  	else im.height = bigsize2;
+  	if(im.height == bigsize3) im.height = smallsize3;
+  	else im.height = bigsize3;
+	}
+</script> -->
 </head>
 <body>
-	<div class="container">
+	<div class="container">	
 	<header class="header">
 		<div class="header-top">
 			<div class="logo">
+				<a href="first.html">
 				<img src="images/Logo-IV-Grotti.png" alt="">
+				</a>
 			</div>
 			<div class="naf">
 			<nav class="nav">
-				<a href="#">VEHICLES</a>
+				<a href="third.html">VEHICLES</a>
 				<a href="second.html">CONTACT US</a>
-				<a href="#">OUR GARAGE</a>
-				<a href="#">TEST-DRIVE</a>
+				<a href="test.html">TEST-DRIVE</a>
 			</nav>
 			</div>
 		</div>
@@ -43,15 +60,20 @@
 		</p>
 		<div class="pics">
 			<div class="white">
-			<img src="images/27091570-1969-dodge-coronet-thumb.jpg" width="430" height="260" alt="">
+			<img src="images/27091570-1969-dodge-coronet-thumb.jpg" width="430" height="260" onclick="changeSizeImage(this)">
 			</div>
 			<div class="key">
-			<img src="images/1970-dodge-coronet-super-bee.jfif" width="710" height="530" alt="">
+			<img src="images/1970-dodge-coronet-super-bee.jfif" width="710" height="530" onclick="changeSizeImage(this)" >
 			</div>
 			<div class="black">
-			<img src="images/unnamed.jpg" width="460" height="350" alt="">
+			<img src="images/unnamed.jpg" width="460" height="350" onclick="changeSizeImage(this)">
 			</div>
 		</div>	
+	</div>
+	<div class="mam">
+	<p class="manu1">
+			Americans John and Goreis Dodge founded their own company in 1914, where they were among the first to start producing cars with all-metal bodies. The Dodge Brothers Company in 1914 began producing its own car. A small firm previously engaged in production of components for the factories of Ford and "Olds Motor", absorbed all the technological innovations of that time, including Ford's technology of standardization and in-line assembly (Henry Ford even brought legal claims to the brothers, albeit without success).
+		</p>
 	</div>
 	<footer class="footer">
 		<p class="grotti">Grotti Co.Ltd, 2021</p>

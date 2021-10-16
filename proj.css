@@ -86,7 +86,7 @@ a{
 	background: background-color: rgba(0, 0, 0, 0.52);
 }
 .header-top1{
-	height: 170px;
+	height: 180px;
 	background-color: rgba(0, 0, 0, 1);
 }
 .sign{
@@ -127,6 +127,7 @@ a{
 .sub{
 	color: #ffff;
 	font-size: 30px;
+	text-decoration: none;
 }
 .submit{
 	background-color: rgba(41, 18, 18, 1);
@@ -139,6 +140,7 @@ a{
 }
 .sss{
 	margin-top: 10px;
+
 }
 .map{
 	margin-top: 50px;
@@ -161,4 +163,179 @@ a{
 	background-color: #E5E5E5;
 	text-align: center;
 	margin-top: 200px;
+}
+.ser{
+	border-radius: 63px;
+}
+.header-top2{
+	height: 170px ;
+}
+.logo{
+	margin-top: 15px;
+}
+.tachki{
+	text-align: center;
+	padding-top: 100px;
+}
+.nav3 a{
+	margin-left: 55px;
+	font-size: 18px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.nav3{
+	padding-top: 60px; 
+}
+.back{
+	margin-left: -20px;
+	display: flex;
+	margin-top: 40px;
+}
+.iconic{
+	text-align: center;
+}
+.chrysler{
+	width: 700px;
+	margin-left: 550px;
+}
+.manu{
+	color: #fff;
+}
+.sub1:hover{
+	color: black;
+	text-decoration: none;
+}
+.bp{
+	text-align: center;
+	border-radius: 20px;
+	margin-top: 50px;
+	margin-left: 700px;
+	width: 400px;
+	background-color: rgba(144, 36, 36, 1);
+}
+.sub1{
+	font-size: 30px;
+	text-decoration: none;
+	color: #fff;
+}
+.generation{
+	text-align: center;
+	margin-top: 90px;
+}
+.gen{
+	color: #fff;
+	font-size: 30px;
+}
+.bprice{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 40px;
+	color: #fff;
+}
+.ow{
+	font-size: 30px;
+}
+.challenger{
+	float: left;
+}
+.charger{
+	float: left;
+}
+.vehics{
+	padding-top: 30px;
+	text-align: center;
+	margin-left: 300px;
+	height: 600px;
+}
+.prices{
+	text-align: left;
+}
+.chg{
+	color: #fff;
+	font-size: 25px;
+	font-style: "Red Rose";
+}
+.prc{
+	font-size: 40px;
+	color: #fff;
+}
+.knopka{
+	float: left;
+	background-color: rgba(144, 36, 36, 1);
+	width: 150px;
+}
+.footer2{
+	height: 300px;
+	background-color: rgba(0, 0, 0, 1);
+	text-align: center;
+	margin-top: 200px;
+}
+.grotti2{
+	padding-top: 150px;
+	font-size: 20px;
+	color: #ffff;
+}
+a:hover{
+	text-decoration: none;	
+	color: darkred;
+}
+a{
+	text-decoration: none;
+}
+.bui{
+	color: #ffff;
+}
+.bui:hover{
+	color: black;
+	font-style: "Red Rose";
+}
+.mashini{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 100px;
+}
+.cvet{
+	color: #fff;
+}
+.knopka{
+	margin-top: 30px;
+}
+.red{
+	text-align: center;
+}
+.cvet{
+	padding-top: 20px;
+}
+span{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+h2{
+	color: #ffff;
+}
+.dets{
+	display: flex;
+	max-width: 1000px;
+	justify-content: space-between;
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.dd{
+	border-radius: 20px;
+}
+.dib{
+	background-color: red;
+	height: 200px;
+	width: 100px;
+}
+.manu1{
+	color: #fff;
+}
+.mam{
+	width: 1000px;
+	text-align: center;
+	margin-top: -200px;
+	padding-left: 450px;
+	padding-bottom: 150px;
 }
